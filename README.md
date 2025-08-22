@@ -1,8 +1,6 @@
-# branch-practice
+# blue circle
 
-### main.py includes simple code to print 'hello world'
+### fizzbuzz.py includes simple code to print 'fizz','buzz'
 
-'''python
-print('hello world')
-'''
+
 
